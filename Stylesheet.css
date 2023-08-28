@@ -1,0 +1,12 @@
+#try {
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: #36C;
+    font-weight: normal;
+    letter-spacing: .4em;
+    margin-bottom: 1em;
+    text-transform: lowercase;
+}
